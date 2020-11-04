@@ -1,3 +1,3 @@
-# 3D-Tube-for-Condensation
+# 2D-Tube-for-Water-Condensation
 
-A 3D Ansys model to simulate the condensation of water in a narrow tube surrounded by a cold bath.
+A 2D Ansys model to simulate the condensation of water in a narrow tube using the Evporation-Condensation Model in Fluent. 
